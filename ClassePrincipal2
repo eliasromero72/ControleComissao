@@ -1,0 +1,22 @@
+ class Principal
+    {
+        static void Main(string[] args)
+        {
+            Vendedor v1 = new Vendedor();
+
+            Console.WriteLine("Digite seu nome: ");
+            v1.setNome(Console.ReadLine());
+
+            Console.WriteLine("Digite seu salário base: ");
+            v1.setSalarioBase(Convert.ToDouble(Console.ReadLine()));
+
+            Console.WriteLine("Digite o valor vendido: ");
+            double comissao = v1.calcularComissao(Convert.ToDouble(Console.ReadLine()));
+
+            Console.WriteLine("Nome: " +  v1.getNome());
+            Console.WriteLine("Salário base: " +  v1.getSalarioBase());
+            Console.WriteLine("Valor vendido: " + (comissao / 0.03));
+            Console.WriteLine("Comissão: " + comissao);
+            Console.WriteLine("Salário total: " + (v1.getSalarioBase() + comissao));
+        }
+    }
