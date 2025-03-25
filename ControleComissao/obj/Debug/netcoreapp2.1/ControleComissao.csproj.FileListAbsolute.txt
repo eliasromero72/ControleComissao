@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.deps.json
+C:\Users\Aluno\source\repos\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.runtimeconfig.json
+C:\Users\Aluno\source\repos\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.dll
+C:\Users\Aluno\source\repos\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.pdb
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.dll
+C:\Users\Aluno\source\repos\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.pdb
